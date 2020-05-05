@@ -1,0 +1,76 @@
+body{background-color: #581845;
+      margin: 0;}
+.profile{background-color: #581845;}
+.contact{background-color: #900C3F;}
+.profile h1 {text-align:center;
+    font-size:300%;
+    font-family:Tw Cen MT;
+    color:white;
+    padding: 10px;
+    border-top: 5px solid #FF5733;
+    border-bottom: 5px solid #FF5733;}
+.contact h1{text-align:center;
+    font-size:300%;
+    font-family:Tw Cen MT;
+    color:white;
+    padding: 10px;
+    border-top: 5px solid #FFC300;
+    border-bottom: 5px solid #FFC300;}
+h2{text-align:center;
+    font-size:200px;
+    font-family:Tw Cen MT;
+    color:white;}
+div{padding:20px;
+    border: 5px solid #FF5733;}
+.contact div{padding:30px;
+    border: 5px solid #FFC300;}
+#paragraf{font-family:Tw Cen MT;
+  font-size: 150%;
+  color: white;}
+button{float:right;
+   position: absolute;
+   right: 50px;
+   top: 360px;
+   font-family:Tw Cen MT;
+   font-size: 25px;
+   background-color:#C70039;
+   border:none;
+   color:white;
+   padding: 15px 25px;
+   text-align:center;
+   cursor: pointer;}
+a{color:white}
+table,th, td{
+  border: 2px solid ;
+  border-collapse: collapse;
+  font-family:Tw Cen MT;
+  font-size: 110%;
+  padding: 2px;
+  text-align: center;
+  color: white;}
+th{background-color: #900C3F;}
+td{background-color:#C70039}
+table{width:100%;}
+img{float:right;
+    position: absolute;
+    right: 55px;
+    top: 165px;
+    border: 3px solid white;}
+form{font-family:Tw Cen MT;
+  font-size: 150%;
+  color:white;}
+.navbar {
+  background-color: #900C3F;
+  position: fixed;
+  bottom: 0;
+  width: 110%;
+}
+.navbar a{
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 30px 30px;
+  font-family: Tw Cen MT;
+  font-size:150%;
+}
+
